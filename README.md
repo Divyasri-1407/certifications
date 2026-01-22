@@ -6,7 +6,7 @@ My technical certifications in Python and Machine Learning
 Python Programming Certification  
 Issuer: Hackerranker
 Year: 2025
-[View Certificate](python_Certificate.pdf)
+[View Certificate](python_certificate.pdf)
 
 
 More certifications will be added as I progress.
